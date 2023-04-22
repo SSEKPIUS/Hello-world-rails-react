@@ -65,7 +65,7 @@ In order to run this project you need:
 
 Clone this repository by using the command line :
 
-- `https://github.com/Ibtisam34/Hello-world-rails-react.git`
+- `https://github.com/SSEKPIUS/Hello-world-rails-react.git`
 
 ### Install
 
@@ -85,12 +85,11 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+1. Ssekweyama Pius
 
-👤 **Riyana Abdi**
-
-- GitHub: [@ibtisam34](https://github.com/ibtisam34)
-- LinkedIn: [Falis](https://linkedin.com/in/falis-abdikani/)
+- GitHub: [@githubhandle](https://github.com/SSEKPIUS)
+- Twitter: [@twitterhandle](https://twitter.com/SSEK_PIUS)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/pius-ssekweyama-23665794)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
